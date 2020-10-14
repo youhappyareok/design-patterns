@@ -1,4 +1,4 @@
-package patters;
+package patters.single;
 
 public class SingleObject {
     private static SingleObject instance = new SingleObject();

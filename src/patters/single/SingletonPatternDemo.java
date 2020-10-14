@@ -1,4 +1,6 @@
-package patters;
+package patters.single;
+
+import patters.single.SingleObject;
 
 public class SingletonPatternDemo {
     public static void main(String[] args) {
